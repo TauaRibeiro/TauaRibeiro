@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Olá, eu sou Tauã Ribeiro<br><br>- 📚 Atualmente estou cursando desenvolvimento de sistemas no SENAI.<br>- ⚡ Costumo programar em Python para desenvolver um pouco de lógica de programação... E também porque eu gosto de programar em Python. <br> - 🔭 Procuro trabalhar na área apesar de ter muito o que aprende e melhorar, então costumo dar passo de cada vez.<br>- 🎮 E no eu tempo livre costumo jogar alguns jogos.  Agora, se eu sou bom neles, aí é outra história.</h4>
+<h4 align="left">Olá, eu sou Tauã Ribeiro<br><br>- 📚 Atualmente estou cursando desenvolvimento de sistemas no SENAI e Ciência de dados na Wyden.<br>- ⚡ Costumo programar em Python para desenvolver um pouco de lógica de programação... E também porque eu gosto de programar em Python. <br> - 🔭 Procuro trabalhar na área apesar de ter muito o que aprende e melhorar, então costumo dar passo de cada vez.<br>
 
 ###
 
